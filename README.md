@@ -49,11 +49,11 @@ given 2 numbers (equal or different), we print how many bits are different betwe
 ## Add (choose number 6):
 given 2 integer numbers, add them:  
 ![image](https://user-images.githubusercontent.com/83518959/191590088-e227e282-d8fe-418f-9597-7d6b0c3541ea.png)  
-** in this task, we are not allowed to use +, -, *, /  
+** in this task, we are not allowed to use +, -, *, /.    
 ** we are allowed to use only bitwise (such as ^, |, &, >>, <<) , conditions (if,else,switch,case), loops, and logical expressions (such as ||, &&).
 
 ## Multiply (choose number 7):
 given 2 integer numbers, multiply them:  
 ![image](https://user-images.githubusercontent.com/83518959/191590143-2f08085c-be75-4c7a-93ed-833abe3d3eac.png)  
-** in this task, we are not allowed to use +, -, *, /, %    
+** in this task, we are not allowed to use +, -, *, /, %.      
 ** we are allowed to use only bitwise (such as ^, |, &, >>, <<) , conditions (if,else,switch,case), loops, and logical expressions (such as ||, &&).
