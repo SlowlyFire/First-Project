@@ -6,7 +6,7 @@ then, we choose one of the options.
 in the end of a task, we run again the menu for a new choice of the user, until the user enters 0
 and we end the program.
 in case the user enters a choice which doesn't appear in the menu, we print:  
-<img src="https://user-images.githubusercontent.com/83518959/191583628-842a8c18-71cd-40e3-981c-9b66893825c7.png" width="150" height="200" />
+<img src="https://user-images.githubusercontent.com/83518959/191583628-842a8c18-71cd-40e3-981c-9b66893825c7.png" width="200" height="150" />
 
 
 ## rhoumbus (choose number 1):
