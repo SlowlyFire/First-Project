@@ -1,19 +1,18 @@
 /*****************
-*Gal Giladi
-*312491616
-*01
-*ex2
+*written by Gal Giladi
 *****************/
+
 #include <stdio.h>
 /*************************************************************************************
-* Function name: 
-* Input: 
-* Output: 
-* Function Operation: 
+* Function name: rhoumbus
+* Input: void
+* Output: void
+* Function Operation: the func gets a size from the user (size of a side of the rhoumbus)
+* and print the rhoumbus to the screen (stdout)
 *************************************************************************************/
 	void rhoumbus()
 	{
-		int n, i, j, k, t; //ex1
+		int n, i, j, k, t; 
 		printf("Enter the side length:\n");
 		scanf("%d", &n);
 		int tempo = n; //to save n
