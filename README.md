@@ -9,7 +9,7 @@ in case the user enters a choice which doesn't appear in the menu, we print:
 ![image](https://user-images.githubusercontent.com/83518959/191589352-c1d61b43-1a56-4914-94cb-f476186826d1.png)
 
 
-## rhoumbus (choose number 1):
+## Rhoumbus (choose number 1):
 given a natural number from the user, we print a rhoumbus with a size side of the user's choice:  
 <img src="https://user-images.githubusercontent.com/83518959/191584251-4fb9697a-298f-48a6-b10e-fe485ff8cae4.png" width="150" height="200" />
 
@@ -32,7 +32,7 @@ in case, the given string isn't valid in the base we chose, we print:
 ![image](https://user-images.githubusercontent.com/83518959/191586044-7cfe492b-3821-46e6-b986-108bd03582ed.png)
 
 
-## if the number is pow of 2 (choose number 4):
+## Pow of 2 (choose number 4):
 given a number from the user, we print if the number is a pow of 2, or not:  
 ![image](https://user-images.githubusercontent.com/83518959/191586440-9763b827-3122-4df6-b8cb-8555bad214e3.png)  
 ![image](https://user-images.githubusercontent.com/83518959/191586555-25b07676-843f-4182-9676-079419616c6a.png)
