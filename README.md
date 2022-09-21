@@ -1,5 +1,5 @@
 ## First-Project
-at first, a menu will be printed to the screen (stdout):
+at first, a menu will be printed to the screen (stdout):  
 ![image](https://user-images.githubusercontent.com/83518959/191582992-a1b2eb46-9a47-4067-9d48-68d3b32122e9.png)
 
 then, we choose one of the options.
