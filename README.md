@@ -1,7 +1,6 @@
 ## First-Project
 at first, a menu will be printed to the screen (stdout):  
-<img src="https://user-images.githubusercontent.com/83518959/191582992-a1b2eb46-9a47-4067-9d48-68d3b32122e9.png" width="200" height="400" />
-![image](https://user-images.githubusercontent.com/83518959/191582992-a1b2eb46-9a47-4067-9d48-68d3b32122e9.png =100x100)
+<img src="https://user-images.githubusercontent.com/83518959/191582992-a1b2eb46-9a47-4067-9d48-68d3b32122e9.png" width="150" height="200" />
 
 then, we choose one of the options.
 in the end of a task, we run again the menu for a new choice of the user, until the user enters 0
