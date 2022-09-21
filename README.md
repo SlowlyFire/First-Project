@@ -36,9 +36,8 @@ in case, the given string isn't valid in the base we chose, we print:
 given a number from the user, we print if the number is a pow of 2, or not:  
 ![image](https://user-images.githubusercontent.com/83518959/191586440-9763b827-3122-4df6-b8cb-8555bad214e3.png)  
 ![image](https://user-images.githubusercontent.com/83518959/191586555-25b07676-843f-4182-9676-079419616c6a.png)  
-** in this task, we are not allowed to use loops, *, / or %.  
-** we are allowed to use only bitwise (such as ^, |, &, >>, <<) , if,else,switch,case, +, -, and logical expressions
-(such as ||, &&).
+** in this task, we are not allowed to use loops, *, /, %.  
+** we are allowed to use only bitwise (such as ^, |, &, >>, <<) , conditions (if,else,switch,case), +, -, and logical expressions (such as ||, &&).  
 
 
 ## Different Bits (choose number 5):
