@@ -1,5 +1,6 @@
 ## First-Project
 at first, a menu will be printed to the screen (stdout):  
+<img src="https://user-images.githubusercontent.com/83518959/191582992-a1b2eb46-9a47-4067-9d48-68d3b32122e9.png" width="200" height="400" />
 ![image](https://user-images.githubusercontent.com/83518959/191582992-a1b2eb46-9a47-4067-9d48-68d3b32122e9.png =100x100)
 
 then, we choose one of the options.
