@@ -6,7 +6,7 @@ then, we choose one of the options.
 in the end of a task, we run again the menu for a new choice of the user, until the user enters 0
 and we end the program.
 in case the user enters a choice which doesn't appear in the menu, we print:  
-<img src="https://user-images.githubusercontent.com/83518959/191583628-842a8c18-71cd-40e3-981c-9b66893825c7.png" width="300" height="100" />
+![image](https://user-images.githubusercontent.com/83518959/191589352-c1d61b43-1a56-4914-94cb-f476186826d1.png)
 
 
 ## rhoumbus (choose number 1):
@@ -39,4 +39,15 @@ given a number from the user, we print if the number is a pow of 2, or not:
 
 
 ## Different Bits (choose number 5):
-given 2 numbers (equal or different), we print how many bits are different between the both of them:
+given 2 numbers (equal or different), we print how many bits are different between the both of them:  
+![image](https://user-images.githubusercontent.com/83518959/191589529-66cdbb51-ddba-4d48-a0b5-f73f736f3cff.png)  
+![image](https://user-images.githubusercontent.com/83518959/191589595-7875f31e-755b-4b39-aaa8-49635950db9f.png)  
+
+## Add (choose number 6):
+given 2 integer numbers, add them:  
+![image](https://user-images.githubusercontent.com/83518959/191590088-e227e282-d8fe-418f-9597-7d6b0c3541ea.png)  
+
+
+## Multiply (choose number 7):
+given 2 integer numbers, multiply them:  
+![image](https://user-images.githubusercontent.com/83518959/191590143-2f08085c-be75-4c7a-93ed-833abe3d3eac.png)  
