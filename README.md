@@ -1,4 +1,4 @@
-# First-Project
+# Playing With Numbers (First Project)
 at first, a menu will be printed to the screen (stdout):  
 <img src="https://user-images.githubusercontent.com/83518959/191582992-a1b2eb46-9a47-4067-9d48-68d3b32122e9.png" width="150" height="200" />
 
